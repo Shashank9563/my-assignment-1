@@ -1,0 +1,52 @@
+01.What is Data Science?
+Data science is the field of study that combines domain expertise, programming skills, and math to extract meaningful insights from data.
+
+
+02.What are the steps in the Data science loop?
+The correct order of the steps from first to last is:
+    .Question 
+    .Data
+    .Model
+    .Decision
+    .Chech-back
+
+
+03.Dose Data Science always need AI
+   NO.
+   Reason: Many data science projects rely purely on traditional statistical analysis, basic data cleaning, and visual charts 
+           to find answers without using any complex artificial intelligence or machine learning algorithms.
+
+
+
+04.Find the decision and the check-back.
+1 Decision: Prepare fewer sandwiches the next friday.
+    2 Check-back: Counts the leftovers again.
+
+
+05. Find Data Science without AI.
+    Is this Data science?
+     Yes.
+     What decision did the shopkeeper make?
+     To stock more umbrellas before the next rainy day.
+     What did the shopkeeper de to check whether the decision worked?
+     Compared the new sales with the old sales.
+
+
+
+
+06.Complete the missing part of the loop.
+    Complete the missing part of the loop
+    Missing step: Check-back 
+    Action: Record attendance for the new, later class time over a set period.
+    Why it matters: Without measuring attendance after the change, the college cannot know if moving the class actually solved
+    the low attendance problem or if further adjustments are needed.
+
+
+07.Build a simple Data Science loop. 
+    Build a simple Data Science loop
+   . Pattern: The student repeatedly arrives late to college when leaving home at 8:15 a.m.
+   . Decision: The student could try leaving home 20 minutes earlier, at 7:55 a.m.
+   . Check-back: The student should record their daily arrival times at college for the next week to see if they are still arriving late.
+    
+
+
