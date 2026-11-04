@@ -1,0 +1,42 @@
+Q1. What is AI?
+Answer: Artificial Intelligence is basically when we build computer systems or programs that can mimic human thinking and problem-solving. Instead of just following strict, pre-written instructions, an AI system can handle new situations, make decisions, and react intelligently, kind of like how a human would.
+
+Q2. What is ML?
+Answer: Machine Learning is a specific branch of AI where we don't hardcode all the rules. Instead, we feed a computer lots of data and let it learn patterns and improve its performance on its own over time. The more data it processes, the better it gets at making predictions.
+
+Q3. What is DL?
+Answer: Deep Learning is an advanced subset of Machine Learning inspired by how the human brain works. It uses multi-layered artificial neural networks (hence "deep") to automatically handle complex tasks like recognizing faces, translating languages, or processing voice commands without needing human help to extract features.
+
+Intermediate
+Q4. Separate a rule from ML
+Answer:
+
+System A (Blocks form when empty): Exact rule
+
+System B (Predicts needed practice questions based on past answers): ML
+
+Q5. Separate ML from GenAI
+Answer:
+
+Tool predicting a film a viewer may like: ML
+
+Tool writing a new two-line film description: GenAI
+
+Hard
+Q6. Compare two mechanisms
+Answer:
+
+Fixed login lock: Exact rule (or hardcoded logic)
+
+Face check: Deep Learning (layered neural network)
+
+Difference: The login lock relies entirely on fixed, programmer-written conditions that never change, whereas the face check automatically learns features from data, passing visual information through multiple stacked layers (from edges to shapes to full features) to recognize a face.
+
+Q7. Correct two mixed-up claims
+Answer:
+
+Correction 1: Speed doesn't determine if something is ML; a simple calculator or hardcoded script responds instantly using fixed rules, not machine learning.
+
+Correction 2: Deep Learning isn't just a vague term for "smarter AI"—it specifically refers to AI that uses multi-layered neural networks to learn complex patterns from data.
+
+Example: An exact rule is a website form checking if an email field contains an "@" symbol.
